@@ -1,0 +1,28 @@
+name: Soulfull
+favicon: null
+layout_spectrum: 0.9865541448816657
+typography_spectrum: 0.36923921131528914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5275790533050895
+  lightness: 0.23613278125412762
+  saturation: 0.5647328931372613
+  rhythmicContrast: 0.10689486772753298
+purpose: []
